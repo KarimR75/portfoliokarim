@@ -24,7 +24,6 @@ const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
     duration: 1000,
-    reset: true
 });
 
 sr.reveal('.home__title', {});
